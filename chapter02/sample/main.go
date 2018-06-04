@@ -6,7 +6,10 @@ package main
 import (
 	"log"
 	"os"
-	"github.com/githubao/xiao-goinaction/chapter2/sample/search"
+
+	//"github.com/githubao/xiao-goinaction/chapter02/sample/search/..."
+	"xiao-goinaction/chapter02/sample/search"
+	_ "xiao-goinaction/chapter02/sample/matchers"
 )
 
 func init()  {

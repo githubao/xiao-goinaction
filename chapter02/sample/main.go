@@ -17,5 +17,7 @@ func init()  {
 }
 
 func main() {
+	// 2018/06/04 11:45:16 Description:
+	//The January letter asserts the president's power to end the special counsel probe and to issue pardons, and reveals Trump's broad interpretation of executive power.
 	search.Run("president")
 }

@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 )
 
-const dataFile = "data/data.json"
+const dataFile = "chapter02/sample/data/data.json"
 
 type Feed struct {
 	Name string `json:"site"`
